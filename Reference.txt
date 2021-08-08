@@ -1,0 +1,16 @@
+CocoSsd (Coco Single Shot MultiBox Detection)
+{ son :{firstName: "Shinchan",
+                          lastName: "Nohara",
+                          age: 5,
+                          eyeColor: "black"},
+              mom :{firstName: "Mitsi",
+                          lastName: "Nohara",
+                          age: 35,
+                          eyeColor: "blue"},
+              dad :{firstName: "Harry",
+                          lastName: "Nohara",
+                          age: 40,
+                          eyeColor: "grey"},
+for(i=1; i<5;i++){
+  console.log(i);
+}
